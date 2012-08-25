@@ -1,4 +1,4 @@
-gshell-labled-spaces
+gshell-labeled-spaces
 ====================
 
 The labeled spaces extension for GNOME Shell.
