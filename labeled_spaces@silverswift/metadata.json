@@ -3,9 +3,9 @@
   "description": "Label workspaces with helpful tags. Tags are initially picked from windows in each workspace, but can be modified to your liking. Version 0.9 - Known Bugs: \n1) When removing workspaces, labels fail to work reliably.\n2) When adding workspaces, labels aren't added until exiting the overview", 
   "name": "Labeled Spaces ", 
   "shell-version": [
-    "3.2.1"
+    "3.4.0"
   ], 
-  "url": "", 
+  "url": "https://github.com/nanley/gshell-labled-spaces", 
   "uuid": "labeled_spaces@silverswift", 
   "version": 7
 }
